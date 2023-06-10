@@ -18,7 +18,7 @@ else if (dineroCofla >= 1 && dineroCofla < 1.6) {
     alert("Cofla te sobran: " + (dineroCofla - 1));
 }
 
-else if (dineroCofla >= 1.6 && dineroCofla < 1.7) {
+ else if (dineroCofla >= 1.6 && dineroCofla < 1.7) {
     alert("Cofla, comparte el helado de heladix");
     alert("Cofla te sobran: " + (dineroCofla - 1.6));
 }
